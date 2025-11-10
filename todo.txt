@@ -1,4 +1,3 @@
-walk
-clean
-New
-Run
+Go for a walk
+Finish the task
+Complete the Book
