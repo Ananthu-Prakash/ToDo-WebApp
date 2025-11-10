@@ -1,0 +1,50 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.Python
+
+# --- Virtual Environments ---
+venv/
+env/
+ENV/
+.venv/
+.venv*/
+*.venv/
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# --- Logs and Databases ---
+*.log
+*.sqlite3
+*.db
+
+# --- OS / Misc ---
+.DS_Store
+Thumbs.db
+
+# --- Build / Distribution ---
+build/
+dist/
+*.spec
+
+# --- Environment / Config ---
+.env
+.env.*
+*.ini
+*.cfg
+
+# --- Frontend / Web ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
